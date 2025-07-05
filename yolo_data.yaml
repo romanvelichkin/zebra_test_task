@@ -1,0 +1,23 @@
+path: ./datasets
+train: images/train
+val: images/val
+test: images/test
+colors:
+- [138, 54, 15]
+- [15, 98, 138]
+- [115, 15, 138]
+- [36, 138, 15]
+- [129, 138, 15]
+- [138, 15, 69]
+- [15, 138, 85]
+- [19, 15, 138]
+- [81, 138, 15]
+- [66, 15, 138]
+- [138, 100, 15]
+- [15, 138, 130]
+- [138, 15, 22]
+- [15, 138, 40]
+- [138, 15, 111]
+names: [tea_pot, red_sauce, red_onion, pickled_chili, pita, chicken_meat, ribs, pork_meat,
+  salad, greek_salad, vodka, snack, red_soup, yellow_soup, tea_cup]
+nc: 15
